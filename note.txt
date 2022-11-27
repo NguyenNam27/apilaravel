@@ -1,0 +1,8 @@
+xây dựng CRUD API
+
+ GET : /users =>lấy toàn bộ tài nguyên
+ GET : /users/id =>lấy 1 tài nguyên theo id
+ POST: /users =>tạo thêm mới tài
+ PUT:/users/id=>cập nhập tất cả trường của id
+ PATCh:/users/id=>cập nhập một vài trường của 1 tài nguyên
+ DELETE:/users/id=>xoá một tài nguyên
